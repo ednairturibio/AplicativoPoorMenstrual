@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aplicativo Poor Menstrual</string>
+    <string name="ongs">ONGs Parceiras</string>
+    <string name="cadastre_se">Cadastre-se</string>
+    <string name="voltar">Voltar</string>
+    <string name="informacoes">Mais Informações</string>
+    <string name="doe">doe</string>
+    <string name="ongs_parceiras">Ongs Parceiras</string>
+    <string name="enviar">Enviar</string>
+    <string name="informaoes">Mais Informações</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="nome_completo">Nome completo</string>
+    <string name="digite_seu_nome_ou_empresa">Digite seu nome ou empresa</string>
+    <string name="Textoformulario">Obrigado por preencher nosso formulário, em breve entraremos em contato com você!</string>
+    <string name="texto">Pobreza Menstrual se define pela falta de recursos básicos (absorventes, ou coletores menstruais, sabonetes, agua, papel higiênico etc). Infraestrutura adequada ( banheiros seguros e bem conservados, saneamento básico, coleta de lixo) e conhecimento (quebra de tabus e preconceito sobre o tema) para que pessoas que menstruam tenham plena capacidade de cuidar de sua menstruação. È importante ressaltar que além de meninas e mulheres, homens transexuais também menstruam. Assim, as causas da pobreza menstrual giram, principalmente, em torno da desigualdade social, uma vez que as pessoas mais atingidas por esse problema são as que não têm recursos para a compra dos itens de higiene ou não têm acesso a informações sobre o tema. No Brasil, 713 mil meninas vivem sem acesso a banheiro ou chuveiro em seu domicilio e mais de 4 milhões não tem acesso a itens mínimos de cuidados menstruais nas escolas. Além de privação de chuveiros em suas residências, 4 milhões de menina sofrem com pelo menos uma privação de higiene nas escolas. Os dados são da pesquisa \'Pobreza Menstrual no Brasil : Desigualdade e Violações de Direitos\' , lançada em maio de 2021 por UNICEF E UNFPA.</string>
+</resources>
